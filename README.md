@@ -3,4 +3,4 @@
 - Previously:
   - I did my PhD in Steve Potter's Lab at Georgia Tech
   - I worked with Matt Wilson at MIT for a long time
-- I'm interested in various models of collective ownership (designs, spaces, labor output, etc.)
+- I'm interested in models of collective ownership of designs, spaces, labor output, etc.
